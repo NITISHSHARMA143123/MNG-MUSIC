@@ -1,5 +1,5 @@
 {
-      "name": "TELEGRAM MANAGEMENT x MUSIC BOT",
+      "name": "LILY MANAGEMENT x MUSIC",
       "description": "A Powerful  Telegram group management and music bot with addtional features .",
       "keywords": [
          "telegram",
@@ -11,8 +11,8 @@
          "logi"
       ],
     
-   "logo":    "https://te.legra.ph/file/e8595050c5c4ea14f34d9.jpg",  
-   "repository": "https://github.com/LOGI-TECH/logi-bot",
+   "logo":    "",  
+   "repository": "https://github.com/NITISHSHARMA143123/MNG-MUSIC",
    "addons": [
           {
          "options": {
@@ -213,7 +213,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.buymeacoffee.com/logesh"
+         "value": ""
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
